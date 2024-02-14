@@ -30,7 +30,7 @@ export default function Page() {
       // "You're breaking my heart😥😥😥",
       
       // Vietnamese
-      "No,
+      "No",
       "Are you sure???🙄",
       "Really Sure??🤔",
       "Are you positive???😶",
