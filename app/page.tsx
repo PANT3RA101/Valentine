@@ -73,7 +73,7 @@ export default function Page() {
               onClick={() => setYesPressed(true)}
             >
               {/* Yes */}
-              Đúng
+              Yes
             </button>
             <button
               onClick={handleNoClick}
@@ -81,7 +81,7 @@ export default function Page() {
             >
               {noCount === 0 ? 
                 // "No" 
-                "Không 😥"
+                "No 😥"
                 : getNoButtonText()
               }
             </button>
